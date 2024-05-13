@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bbca277-3913-4301-a4ec-59ac0763430b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tarefa_classes/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/TarefaWrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/src/tarefa_wrapper/Conversao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
