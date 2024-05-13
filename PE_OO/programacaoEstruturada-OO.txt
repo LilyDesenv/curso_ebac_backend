@@ -1,0 +1,7 @@
+A Programação Estruturada é uma forma de programação sequencial num mesmo arquivo, onde todo o fluxo do programa é 
+feita seguindo uma sequência lógica onde há inicio, meio e fim. Pela lógica estar toda concentrada num mesmo arquivo, 
+isso faz com que ele fique extenso e acaba tornando difícil a compreensão e manutenção.
+
+A Programação Orientada a Objetos (POO) é uma forma de programação  que organiza o software em torno de objetos e dados,
+em vez de funções e lógica de processamento. Em POO, os objetos representam entidades do mundo real ou conceitos 
+abstratos que têm características (atributos) e comportamentos (métodos) associados a eles.

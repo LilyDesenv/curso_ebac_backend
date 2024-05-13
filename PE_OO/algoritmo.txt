@@ -1,0 +1,15 @@
+INICIO
+
+    1. Abro o olho
+    2. Retiro o cobertor de cima de mim
+    3. Sento com as penas para fora da cama
+    4. Calço uma sandália
+    5. Levanto
+    6. Vou Até o banheiro
+        1. Escovo os dentes 
+        2. Lavo o rosto
+    7. Vou até a cozinha
+        1. Preparo o café
+        2. Tomo o café
+
+FIM
