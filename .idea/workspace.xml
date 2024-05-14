@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bbca277-3913-4301-a4ec-59ac0763430b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/TarefaWrapper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_wrapper/src/tarefa_wrapper/Conversao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colecoes-p1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/colecoes-p1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colecoes-p1/src/tarefa_colecoes2/Colecoes.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/colecoes-p1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gQcdAApBNaZ115digvyJJQq7sV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -32,21 +27,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/Curso EBAC/BackEnd/atividades",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Curso EBAC/BackEnd/modulos&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Curso EBAC\BackEnd\atividades\PE_OO" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="atividades" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="atividades" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
